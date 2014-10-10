@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo Hacer tu Plan de Gastos Mensual
-redirect_from: /como-hacer-tu-plan-de-gastos-mensual
+redirect_from: /como-hacer-tu-plan-de-gastos-mensual/
 ---
 
 ¿No sabes en que se te va el dinero?, ¿Cada que revisas el saldo en tu banco, es mucho menos de lo que pensabas que era?
