@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Cómo Hacer tu Plan de Gastos Mensual
+author: Juan Olvera
+twitter: thinkxl
+intro: ¿No sabes en que se te va el dinero?, ¿Cada que revisas el saldo en tu banco, es mucho menos de lo que pensabas que era?
 redirect_from: /como-hacer-tu-plan-de-gastos-mensual/
 ---
-
-¿No sabes en que se te va el dinero?, ¿Cada que revisas el saldo en tu banco, es mucho menos de lo que pensabas que era?
 
 Esto es a causa de tratar de llevar los gastos en nuestra cabeza y hacer cálculos al aire, como ves y posiblemente ya has experimentado, esto la mayoría nunca funciona.
 
