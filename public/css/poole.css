@@ -41,6 +41,8 @@
           box-sizing: border-box;
 }
 
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,400italic,700,700italic);
+
 html,
 body {
   margin: 0;
@@ -204,7 +206,7 @@ pre code {
 }
 .gist .gist-file .gist-data {
   font-size: .8rem !important;
-  line-height: 1.4;
+o line-height: 1.4;
 }
 .gist code {
   padding: 0;
