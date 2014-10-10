@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Droid Sans", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -67,7 +67,9 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  /* color: #268bd2; */
+  /* color: green; */
+  color: #27ae60; 
   text-decoration: none;
 }
 a strong {
@@ -82,6 +84,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+  font-family: "Droid Serif", sans-serif;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -345,11 +348,17 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Meta data line below post title */
+.page-date {
+  font-style: italic;
+  color: #999;
+}
+
 .post-date {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  font-style: italic;
+  color: #999;
 }
 
 /* Related posts */
@@ -375,6 +384,15 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li a:hover small {
   color: inherit;
+}
+
+/*
+ * Footer 
+ */
+
+footer.footer {
+  margin-bottom: 1em;
+  text-align: center;
 }
 
 

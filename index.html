@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d/%m/%y" }}</time>
 
     {{ post.content }}
   </article>
@@ -23,7 +23,7 @@ title: Home
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Entradas Anteriores</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -32,6 +32,6 @@ title: Home
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Entradas Recientes</span>
   {% endif %}
 </div>

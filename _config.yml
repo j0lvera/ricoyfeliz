@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Rico & Feliz 
+tagline:          Finanzas simples 
 url:              http://getpoole.com
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Juan Olvera 
+  url:            https://twitter.com/ricoyfelizblog
+  email:          juan@ricoyfeliz.net
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/thinkxl/ricoyfeliz
