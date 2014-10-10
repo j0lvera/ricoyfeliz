@@ -17,3 +17,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/thinkxl/ricoyfeliz
+
+# Plugins 
+gems:
+  - jekyll-redirect-from
