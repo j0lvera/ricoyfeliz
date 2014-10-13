@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cómo Hacer tu Plan de Gastos Mensual
+tag: Finanzas Personales
 author: Juan Olvera
 twitter: thinkxl
 intro: ¿No sabes en que se te va el dinero?, ¿Cada que revisas el saldo en tu banco, es mucho menos de lo que pensabas que era?

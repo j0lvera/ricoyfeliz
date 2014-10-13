@@ -14,8 +14,12 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d/%m/%y" }}</time>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    <a href="{{ post.url }}">Seguir Leyendo...</a>
   </article>
+
+
   {% endfor %}
 </div>
 

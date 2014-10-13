@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Rico & Feliz 
 tagline:          Finanzas simples 
 url:              http://getpoole.com
-paginate:         3
+paginate:         4
 baseurl:          /
 author:
   name:           Juan Olvera 
