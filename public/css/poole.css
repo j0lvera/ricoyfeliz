@@ -50,18 +50,19 @@ body {
 }
 
 html {
-  font-family: "expo-serif-pro",sans-serif;
+  /* font-family: "skolar",serif; */
+  font-family: "garvis-pro",serif;
   font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
 body {
-  color: #515151;
+  color: #555;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -89,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   /* font-family: "Droid Serif", sans-serif; */
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #333;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -265,6 +266,7 @@ tbody tr:nth-child(odd) th {
 
 .lead {
   font-size: 1.25rem;
+  line-height: 1.125;
   font-weight: 300;
 }
 
@@ -291,7 +293,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 30rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -337,6 +339,7 @@ tbody tr:nth-child(odd) th {
 	margin-bottom: 1.618rem;
 	color: #999;
 	font-size: 1.336rem;
+  line-height: 1.25;
 }
 
 .page,
