@@ -52,6 +52,9 @@ body {
 html {
   /* font-family: "skolar",serif; */
   font-family: "garvis-pro",serif;
+  /* font-family: "ff-tisa-web-pro",serif; */
+  /* font-family: "adobe-caslon-pro",serif; */
+  /* font-family: "calluna",serif; */
   font-size: 16px;
   line-height: 1.5;
 }
@@ -88,6 +91,8 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   /* font-family: "Droid Serif", sans-serif; */
+  /* font-family: "expo-sans-pro",sans-serif; */
+  /* font-family: "ff-tisa-sans-web-pro",sans-serif; */
   font-weight: bold;
   line-height: 1.25;
   color: #333;
@@ -300,6 +305,9 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
+/*
+ * Top Header 
+ */
 
 /*
  * Masthead
@@ -319,13 +327,56 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a {
   color: #505050;
+  font-size: 0.818em;
+  text-transform: uppercase;
 }
 .masthead-title small {
   font-size: 75%;
+  font-style: italic;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
 }
+
+.masthead-title span {
+  color: #999;
+  font-style: italic;
+}
+
+/*
+ * Social Icons 
+ */
+
+.social-icons-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.social-icon,
+.social-label {
+  display: inline;
+}
+
+.social-icon {
+  /* margin-right: 0.218rem; */
+  font-size: 1rem;
+}
+
+.social-label {
+  margin-right: 0.618rem;
+  font-size: 0.818rem;
+  font-style: italic;
+}
+
+.fa-facebook-square { color: #3b5998; }
+.fa-twitter-square { color: #55acee; }
+.fa-google-plus-square { color: #dd4b39; }
+.fa-linkedin-square { color: #0976b4; }
+.fa-pinterest-square { color: #cc2127; }
+.fa-youtube-square { color: #b31217; }
+.fa-instagram { color: #3f729b; }
+.fa-rss-square { color: #f26522; }
 
 /*
  * Posts and pages

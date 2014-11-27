@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Rico & Feliz 
+title:            Rico <span>&amp;</span> Feliz 
 tagline:          Finanzas simples 
 url:              http://getpoole.com
 paginate:         4
