@@ -51,16 +51,19 @@ body {
 
 html {
   /* font-family: "skolar",serif; */
-  font-family: "garvis-pro",serif;
+  /* -> font-family: "garvis-pro",serif; */
   /* font-family: "ff-tisa-web-pro",serif; */
   /* font-family: "adobe-caslon-pro",serif; */
   /* font-family: "calluna",serif; */
+  font-family: "clavo",sans-serif;
+  /* font-family: "minion-pro",serif; */
+  font-weight: 300;
   font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 
@@ -298,11 +301,16 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 30rem;
+  max-width: 26rem;
   padding-left:  1rem;
   padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
+  margin: 0 auto;
+}
+
+@media (min-width: 38em) {
+  .container {
+     margin: 0 0 0 20%;
+  }
 }
 
 /*
@@ -399,6 +407,10 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Blog post or page title */
+.home .post-title {
+  font-size: 1.618rem;
+}
+
 .page-title,
 .post-title,
 .post-title a {
@@ -473,7 +485,7 @@ footer.footer {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
   color: #ccc;
   text-align: center;
 }
