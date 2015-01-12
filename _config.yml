@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Rico <span>&amp;</span> Feliz 
 tagline:          Finanzas simples 
-url:              http://getpoole.com
+url:              http://localhost:4000/
 paginate:         4
 baseurl:          /
 author:

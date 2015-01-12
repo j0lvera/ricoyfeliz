@@ -63,7 +63,7 @@ html {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -301,7 +301,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 26rem;
+  max-width: 30em;
   padding-left:  1rem;
   padding-right: 1rem;
   margin: 0 auto;
@@ -317,6 +317,28 @@ tbody tr:nth-child(odd) th {
  * Top Header 
  */
 
+.branding,
+.navigation {
+    float: none;
+    width: 100%;
+}
+
+@media (min-width: 38em) {
+  .branding,
+  .navigation {
+    float: left;
+  }
+
+  .branding {
+    width: 70%;
+  }
+
+  .navigation {
+    width: 30%;
+  }
+}
+
+
 /*
  * Masthead
  *
@@ -324,13 +346,15 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
+  width: 100%;
+  display: table;
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 1em;
   color: #505050;
 }
 .masthead-title a {
@@ -349,6 +373,34 @@ tbody tr:nth-child(odd) th {
 .masthead-title span {
   color: #999;
   font-style: italic;
+}
+
+/*
+ * Main Navigation 
+ */
+
+.main-nav {
+  float: none;
+  position: relative;
+}
+@media (min-width: 38em) {
+  .main-nav {
+    float: right;
+  }
+}
+
+.main-nav:hover .main-nav-list {
+  display: block;
+}
+
+.main-nav-list {
+  display: none;
+  position: absolute;
+  margin-left: 0;
+  padding: 0.5rem;
+  width: 12em;
+  list-style: none;
+  background-color: #eee;
 }
 
 /*
@@ -399,6 +451,14 @@ tbody tr:nth-child(odd) th {
 	color: #999;
 	font-size: 1.336rem;
   line-height: 1.25;
+}
+
+.post img {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: -10%;
+  max-width: 120%;
+  width: 120%;
 }
 
 .page,
