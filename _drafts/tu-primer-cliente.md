@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Tu Primer Cliente
-tag: Finanzas Personales
+tag: 
+- Freelancing
 author: Juan Olvera
 twitter: thinkxl
 intro: Uno de los logros mas importantes de tu carrera laboral.
 ---
 
-Sin duda alguna, la primer victoria en tus proyectos siempre va ser un impulso en tu autoestima y confianza que generara un crecimiento personal.
-
-Aun cuando esa victoria venga después de muchas derrotas, porque obtener tu primer cliente no significa que vas a vender en el primer intento.
+Sin duda alguna la primer victoria en tus proyectos va ser un impulso a tu autoestima y confianza, aun cuando esa victoria venga después de muchas derrotas.
 
 ### Ley de Pareto
 
-Muy posiblemente este no sea tu caso, pero el 80% de mis esfuerzos para arrancar mis proyectos se van en obtener mis primeros clientes, todos los demás llegan solos o con mucho menos esfuerzo.
+Posiblemente este no sea tu caso, pero el 80% de mis esfuerzos para arrancar mis proyectos se van en obtener mis primeros clientes, todos los demás llegan solos o con mucho menos esfuerzo.
 
 Otra cosa curiosa, menos del 20% de mis proyectos tienen algún éxito.
 

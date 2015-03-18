@@ -445,6 +445,50 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+/* Subscribe form */
+.subscribe-form input,
+.subscribe-form button {
+  /* Reset */
+  outline: none;
+  border: none;
+  font-size: 1em;
+}
+
+.subscribe-form input[type="text"] {
+  width: 50%;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.subscribe-form button[type="submit"] {
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #27AE60;
+}
+
+.subscribe-form button[type="submit"]:hover {
+  background-color: #1F9150;
+  cursor: pointer;
+}
+/* Follow twitter block */
+.twitter-follow-block {
+  padding: 1em;
+  text-align: center;
+  background-color: #eee;
+}
+
+/* Tags */
+.tags {
+  color: #aaa;
+  font-size: 0.875em;
+}
+
+.tag {
+  font-weight: bold;
+}
+
 .post-intro {		
 	margin-top: 1.618rem;
 	margin-bottom: 1.618rem;
