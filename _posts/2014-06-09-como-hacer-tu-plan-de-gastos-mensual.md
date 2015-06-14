@@ -16,6 +16,17 @@ Pero me imagino que si estas leyendo es porque quieres aprender la manera correc
 
 Es necesario hacer un plan, algo que te diga el camino correcto a seguir, que te explique cómo repartir inteligentemente tu dinero. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- rico y feliz first -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-5714137419582304"
+data-ad-slot="7777867933"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Vacaciones en la Playa
 
 Piensa en la siguiente analogía: Llega el día de tus vacaciones y quieres salir, pero no sabes a donde, no tienes ni la menor idea, pero te imaginas en tu cabeza: ¡playa! y es todo. 
