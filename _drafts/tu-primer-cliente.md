@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Tu Primer Cliente
-tag: 
+date: 2017-06-22 03:56:00.894000000 Z
+tags:
 - Freelancing
+layout: post
 author: Juan Olvera
 twitter: thinkxl
 intro: Uno de los logros mas importantes de tu carrera laboral.

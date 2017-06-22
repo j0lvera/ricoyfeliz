@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Acerca de Rico y Feliz
+layout: page
 ---
 
 <img class="profile-picture" src="{{ site.url }}/public/img/profile.png"> 

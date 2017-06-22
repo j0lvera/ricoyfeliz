@@ -1,24 +1,25 @@
-# Permalinks
-permalink:        pretty 
-# relative_permalinks: true
-
-# Setup
-title:            Rico <span>&amp;</span> Feliz 
-tagline:          Finanzas simples 
-url:              http://ricoyfeliz.net
-paginate:         5
-baseurl:          /
+---
+title: Rico <span>&amp;</span> Feliz
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: Finanzas simples
+url: http://ricoyfeliz.net
+paginate: 5
+baseurl: "/"
 author:
-  name:           Juan Olvera 
-  url:            https://twitter.com/ricoyfelizblog
-  email:          juan@ricoyfeliz.net
-
-# Custom vars
-version:          1.0.0
+  name: Juan Olvera
+  url: https://twitter.com/ricoyfelizblog
+  email: juan@ricoyfeliz.net
+version: 1.0.0
 github:
-  repo:           https://github.com/thinkxl/ricoyfeliz
-
-# Plugins 
+  repo: https://github.com/thinkxl/ricoyfeliz
 gems:
-  - jekyll-redirect-from
-  - jekyll-paginate
+- jekyll-redirect-from
+- jekyll-paginate
