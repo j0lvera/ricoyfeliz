@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contacto
+layout: page
 ---
 
 Página en construcción.

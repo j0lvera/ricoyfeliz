@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Autor
+layout: page
 ---
 
 Página en construcción.

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: La Batalla Contra los Gastos Hormiga
-tag: 
+date: 2015-03-19 00:00:00 Z
+tags:
 - Presupuesto
 - Finanzas Personales
+layout: post
 author: Juan Olvera
-twitter: blogricoyfeliz 
-intro: "Si no puedes contra el enemigo, únete a el."
+twitter: blogricoyfeliz
+intro: Si no puedes contra el enemigo, únete a el.
 ---
 
 Casi todos tenemos gastos hormiga, esos pequeños caprichos o diminutas cantidades que dejamos ir por su bajo costo. 

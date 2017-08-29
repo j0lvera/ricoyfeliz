@@ -1,6 +1,7 @@
 ---
+title: De vuelta al blogging
+date: 2014-06-02 00:00:00 Z
 layout: post
-title: De vuelta al blogging 
 ---
 
 Muchas cosas han pasado desde la ultima ves que publique en este blog y ademas tengo retrasados varios meses mi regreso, ustedes saben... la [procrastinación](http://es.wikipedia.org/wiki/Procrastinaci%C3%B3n) es fuerte conmigo y como bien dice [@EloyLopezJ](http://twitter.com/EloyLopezJ), tengo el síndrome del zopilote estreñido, porque planeo, planeo, pero no obro¡
