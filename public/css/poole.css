@@ -41,8 +41,6 @@
           box-sizing: border-box;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,400italic,700,700italic);
-
 html,
 body {
   margin: 0;
@@ -50,14 +48,7 @@ body {
 }
 
 html {
-  /* font-family: "skolar",serif; */
-  /* -> font-family: "garvis-pro",serif; */
-  /* font-family: "ff-tisa-web-pro",serif; */
-  /* font-family: "adobe-caslon-pro",serif; */
-  /* font-family: "calluna",serif; */
-  font-family: "clavo",sans-serif;
-  /* font-family: "minion-pro",serif; */
-  font-weight: 300;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -72,6 +63,10 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+}
+
+p,a,li,blockquote {
+  font-weight: 400;
 }
 
 img.emoji {
@@ -100,10 +95,8 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  /* font-family: "Droid Serif", sans-serif; */
-  /* font-family: "expo-sans-pro",sans-serif; */
-  /* font-family: "ff-tisa-sans-web-pro",sans-serif; */
-  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
   line-height: 1.25;
   color: #333;
   text-rendering: optimizeLegibility;
@@ -361,24 +354,30 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 1em;
+  margin-bottom: 0;
   color: #505050;
 }
+
+.masthead.subtitle {
+  margin-top: 0;
+}
+
 .masthead-title a {
-  color: #505050;
-  font-size: 0.818em;
-  text-transform: uppercase;
+  color: #27ae60;
+  /*color: #505050;*/
+  font-size: 1.318em;
 }
 .masthead-title small {
   font-size: 75%;
   font-style: italic;
   font-weight: 400;
-  color: #c0c0c0;
+  /*color: #c0c0c0;*/
   letter-spacing: 0;
 }
 
 .masthead-title span {
-  color: #999;
+  /*color: #999;*/
+  color: green;
   font-style: italic;
 }
 
@@ -566,10 +565,10 @@ article.page h1 {
 
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  /*margin-top: -.5rem;*/
   margin-bottom: 1rem;
-  font-style: italic;
-  color: #333;
+  /*font-style: italic;*/
+  color: #555;
 }
 
 /* Related posts */
