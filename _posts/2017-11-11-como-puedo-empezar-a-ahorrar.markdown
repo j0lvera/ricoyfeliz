@@ -7,14 +7,13 @@ author: Juan Olvera
 twitter: blogricoyfeliz
 editor: David López
 editor_twitter: simolochs
-intro: 'El ahorro es indiscutiblemente uno de los mejores hábitos (sino es que el
-  mejor) que pueden beneficiar nuestra salud financiera. No por nada el homo sapiens
-  lo ha practicado desde que empezó a acuñar monedas. '
 layout: post
 ---
 
 El ahorro es indiscutiblemente uno de los mejores hábitos (sino es que el mejor) que pueden beneficiar nuestra salud financiera. No por nada el homo sapiens lo ha practicado desde que empezó a acuñar monedas. Sin embargo, aunque todos sabemos los beneficios, no todos lo hacemos.
- 
+
+<!--more-->
+
 Entonces, ¿Qué puedo hacer para empezar?, o mejor dicho: ¿Cómo puedo incorporar el ahorro a mis hábitos?
  
 ## Hábitos.
@@ -31,13 +30,11 @@ La experiencia nos va a dejar un sabor amargo, nos va a bajar los ánimos y vamo
  
 Entonces, ¿cómo podemos empezar con el hábito del ahorro?
  
-**Poco a poco.**
+*Poco a poco.*
  
 Empieza a ahorrar con lo que puedas, empieza donde estás; el objetivo es empezar.
 
 No empieces con el 15% que la mayoría recomienda. Si eso es mucho para ti en estos momentos, empieza con un 5%, o tal vez un 2%, o un 1%. Lo que realmente importa es empezar, dar ese pequeño gran paso. Con el tiempo y mejor planeación, tu ahorro va a crecer conforme vayas arreglando tu situación financiera.
-
-<!--more-->
 
 ## Ahorra inconscientemente.
  
