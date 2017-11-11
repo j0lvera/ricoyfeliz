@@ -34,7 +34,9 @@ Entonces, ¿cómo podemos empezar con el hábito del ahorro?
 Empieza a ahorrar con lo que puedas, empieza donde estás; el objetivo es empezar.
 
 No empieces con el 15% que la mayoría recomienda. Si eso es mucho para ti en estos momentos, empieza con un 5%, o tal vez un 2%, o un 1%. Lo que realmente importa es empezar, dar ese pequeño gran paso. Con el tiempo y mejor planeación, tu ahorro va a crecer conforme vayas arreglando tu situación financiera.
-  
+
+<!--more-->
+
 ## Ahorra inconscientemente.
  
 Ojos que no ven, corazón que no siente.
