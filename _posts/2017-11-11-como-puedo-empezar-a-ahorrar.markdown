@@ -5,6 +5,8 @@ tags:
 - ahorro
 author: Juan Olvera
 twitter: blogricoyfeliz
+editor: David López
+editor_twitter: simolochs
 layout: post
 ---
 
@@ -28,7 +30,7 @@ La experiencia nos va a dejar un sabor amargo, nos va a bajar los ánimos y vamo
  
 Entonces, ¿cómo podemos empezar con el hábito del ahorro?
  
-**Poco a poco.**
+*Poco a poco.*
  
 Empieza a ahorrar con lo que puedas, empieza donde estás; el objetivo es empezar.
 
