@@ -134,7 +134,7 @@ Sin un mapa que nos muestre con claridad lo que tenemos que pagar, podríamos f�
 
 Para esto voy a hacer un post aparte, enfocado solamente en personas con ingresos variables. En dos años de **freelance** aprendí con prueba y error, así escribiré y explicare lo poco que aprendí.
 
-## Plantilla Editable.
+## Plantilla Editable
 
 Te dejo una plantilla editable para que juegues con ella y en base a esta hagas la tuya, no necesariamente tiene que ser en excel, a mi me funciona muy bien anotarlo en papel, pero depende de cada quién.
 
