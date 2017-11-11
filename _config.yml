@@ -10,9 +10,9 @@ collections:
     output: true
 permalink: pretty
 tagline: Finanzas simples
-url: http://ricoyfeliz.net
+url: ""
 paginate: 5
-baseurl: "/"
+baseurl: ""
 author:
   name: Juan Olvera
   url: https://twitter.com/ricoyfelizblog
