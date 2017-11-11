@@ -1,8 +1,6 @@
 ---
 title: "¿Cómo puedo empezar a ahorrar?"
 date: 2017-11-11 17:09:00 Z
-categories:
-- ahorro
 tags:
 - ahorro
 author: Juan Olvera
