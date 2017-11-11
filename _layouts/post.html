@@ -12,33 +12,7 @@ layout: default
 
   <p>— <em>Por </em> <a class="post-author" href="http://twitter.com/{{ page.twitter }}">{{ page.author }}</a> <em>publicado en</em> <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date: "%d/%m/%y" }}</time></p>
 
-  <p class="tags">
-  <em> 
-    Categoría(s):
-    {% if page.tags.size > 2 %}
-      {% for tag in page.tag %}
-        {% if forloop.first %}
-        <span class="tag">{{ tag }}, </span>
-        {% elsif forloop.last %}
-        y <span class="tag">{{ tag }}</span>
-        {% else %}
-        <span class="tag">{{ tag }} </span>
-        {% endif %}
-      {% endfor %}
-    {% elsif page.tags.size == 2 %}
-      {% for tag in page.tag %}
-        {% if forloop.first %}
-        <span class="tag">{{ tag }} </span>
-        {% elsif forloop.last %}
-        y <span class="tag">{{ tag }}</span>
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      <span class="tag">{{ page.tag }}</span>
-    {% endif %}
-  </em>
-
-  </p>
+  <p class="tags"><em> Categoría(s): {{ page.tags | join: ', ' }}</em></p>
 
 	<hr>
 
