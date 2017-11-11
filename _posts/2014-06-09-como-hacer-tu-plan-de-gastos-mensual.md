@@ -4,58 +4,59 @@ date: 2014-06-09 00:00:00 Z
 tags:
 - Finanzas Personales
 - Presupuesto
-layout: post
 author: Juan Olvera
-twitter: thinkxl
+twitter: blogricoyfeliz
 intro: "¿No sabes en que se te va el dinero?, ¿Cada que revisas el saldo en tu banco,
   es mucho menos de lo que pensabas que era?"
 redirect_from: "/como-hacer-tu-plan-de-gastos-mensual/"
+layout: post
 ---
 
 Esto es a causa de tratar de llevar los gastos en nuestra cabeza y hacer cálculos al aire, como ves y posiblemente ya has experimentado, esto la mayoría de las veces nunca funciona.
 
 Pero me imagino que si estas leyendo es porque quieres aprender la manera correcta de hacerlo, lo básico es **saber en que te vas a gastar el dinero, antes de tenerlo**.
 
-Es necesario hacer un plan, algo que te diga el camino correcto a seguir, que te explique cómo repartir inteligentemente tu dinero. 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- rico y feliz first -->
-<ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-5714137419582304"
-data-ad-slot="7777867933"
-data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+Es necesario hacer un plan, algo que te diga el camino correcto a seguir, que te explique cómo repartir inteligentemente tu dinero.
 
 ### Vacaciones en la Playa
 
-Piensa en la siguiente analogía: Llega el día de tus vacaciones y quieres salir, pero no sabes a donde, no tienes ni la menor idea, pero te imaginas en tu cabeza: ¡playa! y es todo. 
+Piensa en la siguiente analogía: Llega el día de tus vacaciones y quieres salir, pero no sabes a donde, no tienes ni la menor idea, pero te imaginas en tu cabeza: ¡playa! y es todo.
 
 Cuando sales de tu casa, y despues de un tiempo manejando no tienes idea a donde vas, a cual playa ir, ¿por dónde esta?, lo que vas a terminar haciendo, es gastar toda tu combustible sin siquiera estar cerca de tu destino (del que no sabes donde queda)... o si quieres verlo de otra manera, esas veces que todavía no llegas ni a media quincena y ya te quedaste sin dinero, ¿Te suena familiar?.
 
-Un *Presupuesto de Gastos Mensual* resuelve esto fácilmente, pero necesita otro ingrediente esencial en la formula y esta es: **disciplina**. 
+Un *Presupuesto de Gastos Mensual* resuelve esto fácilmente, pero necesita otro ingrediente esencial en la formula y esta es: **disciplina**.
 
 ## Gastos Fijos Anuales
 
-Primero que nada, voy hablar de ciertos gastos que la mayoría de la gente que conozco jamás agrega a su presupuesto, pero aunque algunos piensen que son innecesarios o que son estrategias de las empresas para chupar nuestro dinero, de todos modos siempre terminamos haciéndolos. 
+Primero que nada, voy hablar de ciertos gastos que la mayoría de la gente que conozco jamás agrega a su presupuesto, pero aunque algunos piensen que son innecesarios o que son estrategias de las empresas para chupar nuestro dinero, de todos modos siempre terminamos haciéndolos.
 
 **Gastos fijos anuales**: Los hacemos como su nombre lo dice, una ves al año. Vamos a hacer una lista e inventar cantidades de lo que podría ser algo aproximado:
 
-- Regalo de Día de Reyes: $200
-- Regalo del Día del Amor y la Amistad: $800
-- Pago de Impuestos: $2,500
-- Gastos de Vacaciones de Semana Santa: $4,000
-- Regalo Día del Niño: $500
-- Regalo Día de las Madres: $500
-- Regalo Día del Padre: $200
-- Gastos de Vacaciones Largas: $5,000
-- Gastos de Regreso a Clases (Uniformes, Útiles, Etc.): $4,000
-- Gastos de la Fiesta 16 de Septiembre: $200
-- Cooperación para las Posadas: $200
-- Regalos de Navidad: $2,000
-- Fiesta de Año Nuevo: $500
+* Regalo de Día de Reyes: $200
+
+* Regalo del Día del Amor y la Amistad: $800
+
+* Pago de Impuestos: $2,500
+
+* Gastos de Vacaciones de Semana Santa: $4,000
+
+* Regalo Día del Niño: $500
+
+* Regalo Día de las Madres: $500
+
+* Regalo Día del Padre: $200
+
+* Gastos de Vacaciones Largas: $5,000
+
+* Gastos de Regreso a Clases (Uniformes, Útiles, Etc.): $4,000
+
+* Gastos de la Fiesta 16 de Septiembre: $200
+
+* Cooperación para las Posadas: $200
+
+* Regalos de Navidad: $2,000
+
+* Fiesta de Año Nuevo: $500
 
 **Total de Gastos Fijos Anuales**: $20,600
 
@@ -69,18 +70,29 @@ Seguimos con los gastos que todos reconocemos pero que no todos les ponemos la a
 
 Antes de anotar cualquier cosa, necesitamos los recibos, cobros, tickets de pago, o todo lo que tengas que pueda ayudar para documentar una lista de los gastos fijos que tienes al mes. Con papeles en mano nos disponemos a hacer una lista donde el formato es así.
 
-- Gastos Fijos Anuales (acuérdense): $1,717 (1ro de cada mes)
-- Despensa o Super: $5,200 (Cada viernes del mes)
-- Transporte (Gasolina o Transporte publico): $1,400 (Cada viernes del mes)
-- Electricidad: $700 (28 de cada mes)
-- Agua: $150 (28 de cada mes)
-- Internet: $400 (1ro de cada mes)
-- Servicio de Celular: $500 (16 de cada mes)
-- Renta: $1,800 (30 de cada mes)
-- Seguros (GM, Vida, Auto): $1,600 (1ro de cada mes)
-- Gastos de Ocio: $800 (Cada viernes del mes)
-- Abono a Deudas: $700 (Cada viernes del mes)
-- Ahorro: $800 (Cada viernes del mes)
+* Gastos Fijos Anuales (acuérdense): $1,717 (1ro de cada mes)
+
+* Despensa o Super: $5,200 (Cada viernes del mes)
+
+* Transporte (Gasolina o Transporte publico): $1,400 (Cada viernes del mes)
+
+* Electricidad: $700 (28 de cada mes)
+
+* Agua: $150 (28 de cada mes)
+
+* Internet: $400 (1ro de cada mes)
+
+* Servicio de Celular: $500 (16 de cada mes)
+
+* Renta: $1,800 (30 de cada mes)
+
+* Seguros (GM, Vida, Auto): $1,600 (1ro de cada mes)
+
+* Gastos de Ocio: $800 (Cada viernes del mes)
+
+* Abono a Deudas: $700 (Cada viernes del mes)
+
+* Ahorro: $800 (Cada viernes del mes)
 
 Los *gastos de ocio* después lo explico.
 
@@ -88,10 +100,11 @@ Esta es una lista muy básica, con cantidades que se pueden acercar a la realida
 
 Que pasa si solo tenemos una lista de gastos, ¿Ya con eso la hacemos?, ¡NO!. Esta lista difícilmente nos puede decir cuales son las semanas de alto gasto y semanas ligeras donde nos va sobrar dinero.
 
-Necesitamos saber en qué vamos a gastar el dinero antes de tenerlo en nuestras manos, para esto, vamos a separar esta lista dependiendo de como nos paguen, por ejemplo: 
+Necesitamos saber en qué vamos a gastar el dinero antes de tenerlo en nuestras manos, para esto, vamos a separar esta lista dependiendo de como nos paguen, por ejemplo:
 
-- **Pago Semanal**, separar estos gastos en cuatro, una lista para cada semana
-- **Pago Quincenal**, separar la lista en dos
+* **Pago Semanal**, separar estos gastos en cuatro, una lista para cada semana
+
+* **Pago Quincenal**, separar la lista en dos
 
 Aquí nos pagan a la semana, separamos la lista en cuatro y hacemos una lista chica por cada semana. Quedaría así:
 
