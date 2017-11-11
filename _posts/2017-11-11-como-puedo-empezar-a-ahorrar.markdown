@@ -1,13 +1,12 @@
 ---
 title: "¿Cómo puedo empezar a ahorrar?"
 date: 2017-11-11 17:09:00 Z
+categories:
+- ahorro
 tags:
 - ahorro
 author: Juan Olvera
 twitter: blogricoyfeliz
-intro: 'El ahorro es indiscutiblemente uno de los mejores hábitos (sino es que el
-  mejor) que pueden beneficiar nuestra salud financiera. No por nada el homo sapiens
-  lo ha practicado desde que empezó a acuñar monedas. '
 layout: post
 ---
 
