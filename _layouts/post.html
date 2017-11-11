@@ -12,6 +12,10 @@ layout: default
 
   <p>— <em>Por </em> <a class="post-author" href="http://twitter.com/{{ page.twitter }}">{{ page.author }}</a> <em>publicado en</em> <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date: "%d/%m/%y" }}</time></p>
 
+  {% if page.editor %}
+  <p>— <em>Revisión Ortográfica y Edición por</em> <a class="post-author" href="http://twitter.com/{{ page.editor_twitter }}">{{ page.editor }}</a></p>
+  {% endif %}
+
   <p class="tags"><em> Categoría(s): {{ page.tags | join: ', ' }}</em></p>
 
 	<hr>

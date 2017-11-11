@@ -5,6 +5,8 @@ tags:
 - ahorro
 author: Juan Olvera
 twitter: blogricoyfeliz
+editor: David López
+editor_twitter: simolochs
 intro: 'El ahorro es indiscutiblemente uno de los mejores hábitos (sino es que el
   mejor) que pueden beneficiar nuestra salud financiera. No por nada el homo sapiens
   lo ha practicado desde que empezó a acuñar monedas. '
