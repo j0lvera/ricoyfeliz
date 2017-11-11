@@ -20,6 +20,6 @@ author:
 version: 1.0.0
 github:
   repo: https://github.com/thinkxl/ricoyfeliz
-gems:
+plugins:
 - jekyll-redirect-from
 - jekyll-paginate
