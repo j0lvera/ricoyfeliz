@@ -521,7 +521,7 @@ tbody tr:nth-child(odd) th {
   line-height: 1.25;
 }
 
-.post img {
+.post .post-img {
   margin-top: 2em;
   margin-bottom: 2em;
   margin-left: -10%;
