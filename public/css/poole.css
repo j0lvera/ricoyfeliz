@@ -521,6 +521,14 @@ tbody tr:nth-child(odd) th {
   line-height: 1.25;
 }
 
+.post img {
+  margin-bottom: 0;
+}
+
+#amznBanners_assoc_banner_placement_default_0_img {
+  margin: 0 auto;
+}
+
 .post .post-img {
   margin-top: 2em;
   margin-bottom: 2em;
