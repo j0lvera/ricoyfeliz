@@ -18,6 +18,22 @@ Pero me imagino que si estas leyendo es porque quieres aprender la manera correc
 
 Es necesario hacer un plan, algo que te diga el camino correcto a seguir, que te explique cómo repartir inteligentemente tu dinero.
 
+<div class="alignleft">
+  <script type="text/javascript">
+    amzn_assoc_ad_type = "banner";
+    amzn_assoc_marketplace = "amazon";
+    amzn_assoc_region = "US";
+    amzn_assoc_placement = "assoc_banner_placement_default";
+    amzn_assoc_campaigns = "books";
+    amzn_assoc_banner_type = "category";
+    amzn_assoc_isresponsive = "true";
+    amzn_assoc_banner_id = "1WV938XZP3V21MG4E2R2";
+    amzn_assoc_tracking_id = "jolvera-20";
+    amzn_assoc_linkid = "459b8c3cca389e389b0c4f4347bbec92";
+  </script>
+  <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+</div>
+
 ### Vacaciones en la Playa
 
 Piensa en la siguiente analogía: Llega el día de tus vacaciones y quieres salir, pero no sabes a donde, no tienes ni la menor idea, pero te imaginas en tu cabeza: ¡playa! y es todo.
