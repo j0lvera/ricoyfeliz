@@ -522,7 +522,7 @@ tbody tr:nth-child(odd) th {
 }
 
 #amznBanners_assoc_banner_placement_default_0_img {
-  margin: 0 auto;
+  margin: 0 auto !important;
 }
 
 .post .post-img {
